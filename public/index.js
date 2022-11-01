@@ -1,5 +1,5 @@
 const config = {
-	bare_server: '/bare/',
+	bare_server: 'https://porepore.vercel.app/bare/',
 	directory: '/stomp/',
 };
 
